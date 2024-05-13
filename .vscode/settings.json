@@ -1,0 +1,13 @@
+{
+    "ros.distro": "galactic",
+    "python.autoComplete.extraPaths": [
+        "/home/naali/tortoisebot_ws/install/tortoisebot_firmware/lib/python3.8/site-packages",
+        "/home/naali/tortoisebot_ws/install/tortoisebot_control/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/naali/tortoisebot_ws/install/tortoisebot_firmware/lib/python3.8/site-packages",
+        "/home/naali/tortoisebot_ws/install/tortoisebot_control/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}

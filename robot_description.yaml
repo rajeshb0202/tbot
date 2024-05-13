@@ -1,0 +1,2 @@
+robot_description: |
+  $(cat /tmp/tortoisebot.urdf)
